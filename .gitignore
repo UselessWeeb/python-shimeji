@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# VS Code configs
+.vscode/
+
+# OS junk
+.DS_Store
